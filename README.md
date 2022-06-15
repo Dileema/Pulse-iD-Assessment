@@ -2,7 +2,7 @@
 Calculator
 
 # Project Description: 
-This is an online calculator which is a canvas web application.Requirement was to automation the calculator for scenarios which cover the addition, substraction, division and multiplication including both positive and negative test cases
+This is an online calculator which is a canvas web application.Requirement was to automate the calculator for scenarios which cover the addition, substraction, division and multiplication including both positive and negative test cases
 
 # Software Dependencies:
 Java should be installed of version Java 8 or above <br />
