@@ -13,7 +13,8 @@ Selenium webdriver files should be installed(latest available version)
  -Open Eclipse and choose Import –> Projects from Git (with smart import)
  -Choose the Clone URI option in the Git import wizard and click Next
  -Confirm the URI, Host and Repository path parameters and click Next
- -Choose the Git branches to clone from the remote repository and click Next-Confirm the Directory into which the repository will be cloned and click Next
+ -Choose the Git branches to clone from the remote repository and click Next
+ -Confirm the Directory into which the repository will be cloned and click Next
  -Choose the Maven project to import into Eclipse from GitHub and click Finish
 
 # Guidelines for feature file
@@ -62,7 +63,8 @@ Maven should be installed of latest available version
  -Open Eclipse and choose Import –> Projects from Git (with smart import)
  -Choose the Clone URI option in the Git import wizard and click Next
  -Confirm the URI, Host and Repository path parameters and click Next
- -Choose the Git branches to clone from the remote repository and click Next-Confirm the Directory into which the repository will be cloned and click Next
+ -Choose the Git branches to clone from the remote repository and click Next
+ -Confirm the Directory into which the repository will be cloned and click Next
  -Choose the Maven project to import into Eclipse from GitHub and click Finish  
 
 # Run the project
