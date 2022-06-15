@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T13:27:36 IST" name="Suite1" finished-at="2022-06-15T13:29:41 IST" duration-ms="124421">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T13:27:36 IST" name="Test" finished-at="2022-06-15T13:29:41 IST" duration-ms="124421">
+      <class name="Tests.Test_cases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:27:32 IST" name="setup" finished-at="2022-06-15T13:27:36 IST" duration-ms="4782" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="launch_calcluator()[pri:1, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:27:36 IST" name="launch_calcluator" finished-at="2022-06-15T13:27:44 IST" duration-ms="7599" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_calcluator -->
+        <test-method signature="operate1()[pri:2, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:27:44 IST" name="operate1" finished-at="2022-06-15T13:27:57 IST" duration-ms="12948" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operate1 -->
+        <test-method signature="operate2()[pri:3, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:27:57 IST" name="operate2" finished-at="2022-06-15T13:28:10 IST" duration-ms="12876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operate2 -->
+        <test-method signature="operate3()[pri:4, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:28:10 IST" name="operate3" finished-at="2022-06-15T13:28:23 IST" duration-ms="12866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operate3 -->
+        <test-method signature="operate4()[pri:5, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:28:23 IST" name="operate4" finished-at="2022-06-15T13:28:36 IST" duration-ms="12947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- operate4 -->
+        <test-method signature="positivedevide_byzero()[pri:6, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:28:36 IST" name="positivedevide_byzero" finished-at="2022-06-15T13:28:49 IST" duration-ms="12835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positivedevide_byzero -->
+        <test-method signature="dividingzero_byzero()[pri:7, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:28:49 IST" name="dividingzero_byzero" finished-at="2022-06-15T13:29:01 IST" duration-ms="12876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dividingzero_byzero -->
+        <test-method signature="postivemultiply_bynegative()[pri:8, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:29:01 IST" name="postivemultiply_bynegative" finished-at="2022-06-15T13:29:15 IST" duration-ms="13203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postivemultiply_bynegative -->
+        <test-method signature="adding_negative()[pri:9, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:29:15 IST" name="adding_negative" finished-at="2022-06-15T13:29:28 IST" duration-ms="13231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adding_negative -->
+        <test-method signature="substracting_negative()[pri:10, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:29:28 IST" name="substracting_negative" finished-at="2022-06-15T13:29:41 IST" duration-ms="12909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- substracting_negative -->
+        <test-method is-config="true" signature="close_window()[pri:0, instance:Tests.Test_cases@3403e2ac]" started-at="2022-06-15T13:29:41 IST" name="close_window" finished-at="2022-06-15T13:29:41 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close_window -->
+      </class> <!-- Tests.Test_cases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite1 -->
+</testng-results>
