@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-15T12:47:58 IST" name="Suite 1" finished-at="2022-06-15T12:48:05 IST" duration-ms="7492">
+    <groups>
+    </groups>
+    <test started-at="2022-06-15T12:47:58 IST" name="Test" finished-at="2022-06-15T12:48:05 IST" duration-ms="7492">
+      <class name="PulseiD.Read">
+        <test-method signature="get_data()[pri:0, instance:PulseiD.Read@125290e5]" started-at="2022-06-15T12:48:04 IST" name="get_data" finished-at="2022-06-15T12:48:05 IST" duration-ms="963" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- get_data -->
+      </class> <!-- PulseiD.Read -->
+      <class name="PulseiD.Delete">
+        <test-method signature="delete_data()[pri:0, instance:PulseiD.Delete@2a3888c1]" started-at="2022-06-15T12:47:58 IST" name="delete_data" finished-at="2022-06-15T12:48:01 IST" duration-ms="3604" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- delete_data -->
+      </class> <!-- PulseiD.Delete -->
+      <class name="PulseiD.Create">
+        <test-method signature="create_data()[pri:0, instance:PulseiD.Create@61eaec38]" started-at="2022-06-15T12:48:03 IST" name="create_data" finished-at="2022-06-15T12:48:04 IST" duration-ms="879" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- create_data -->
+      </class> <!-- PulseiD.Create -->
+      <class name="PulseiD.Update">
+        <test-method signature="update_data()[pri:0, instance:PulseiD.Update@2a225dd7]" started-at="2022-06-15T12:48:01 IST" name="update_data" finished-at="2022-06-15T12:48:03 IST" duration-ms="1932" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- update_data -->
+      </class> <!-- PulseiD.Update -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite 1 -->
+</testng-results>
